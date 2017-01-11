@@ -1,0 +1,11 @@
+require(xlsx)
+require(jsonlite)
+require(XML)
+require(RCurl)
+library(plyr)
+require(reshape)
+install.packages("dplyr")
+require(dplyr)
+
+data1 <- read.xlsx("//Econo-file1/users/Shares/ZJ5586B/R/NPIs_to_Check_20161118.xlsx", 1)
+data2 <-read.csv("//Econo-file1/users/Shares/ZJ5586B/R/NPIs_to_Check_2016123_output_v2.csv")
