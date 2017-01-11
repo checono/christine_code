@@ -1,0 +1,878 @@
+[ {
+  "keywords" : "Accountable Care, ACOs, Advance Payment ACO Model, Accountable Care Organizations (ACOs), rural, Medicare, Shared Savings Program, prospective payment",
+  "number_of_participants" : "35",
+  "description" : "The Advance Payment ACO Model is providing upfront and \nmonthly payments to 35 ACOs participating in the Medicare \nShared Savings Program.",
+  "url" : "/initiatives/Advance-Payment-ACO-Model/",
+  "states" : "NC,KY,NH,FL,TX,RI,TN,CA,MA,MD,MS,CT,IN,AR,MO,OH,NE",
+  "model_name" : "Advance Payment ACO Model",
+  "stage" : "No Longer Active",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Episode-based Payment Initiatives, Bundled Payments for Care Improvement (BPCI) Initiative, BPCI, BPCI Model 1: Retrospective Acute Care Hospital Stay Only, Medicare",
+  "number_of_participants" : "1",
+  "description" : "The Bundled Payments for Care Improvement Initiative \nbundles payment for an episode of care. In Model 1,\nretrospective bundled payments are made for acute care \nhospital stays only.",
+  "url" : "/initiatives/BPCI-Model-1/",
+  "states" : "KS",
+  "model_name" : "BPCI Model 1: Retrospective Acute Care Hospital Stay Only",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : "Episode-based Payment Initiatives, Bundled Payments for Care Improvement (BPCI) Initiative, BPCI Model 2: Retrospective Acute & Post Acute Care Episode, BPCI, Medicare",
+  "number_of_participants" : "554",
+  "description" : "The Bundled Payments for Care Improvement Initiative bundles payment for an episode of care. In Model 2, retrospective bundled payments are made for acute care hospital stay plus post-acute care.",
+  "url" : "/initiatives/BPCI-Model-2/",
+  "states" : "AK,AR,CA,CT,DE,FL,GA,IA,ID,IL,IN,KS,KY,LA,MA,MI,MN,MO,MS,NC,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",
+  "model_name" : "BPCI Model 2: Retrospective Acute & Post Acute Care Episode",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : "Episode-based Payment Initiatives, Bundled Payments for Care Improvement (BPCI) Initiative, BPCI, BPCI Model 3: Retrospective Post Acute Care Only, Medicare",
+  "number_of_participants" : "780",
+  "description" : "The Bundled Payments for Care Improvement Initiative bundles payment for an episode of care. In Model 3, retrospective bundled payments are made for post-acute care only.",
+  "url" : "/initiatives/BPCI-Model-3/",
+  "states" : "AK,AL,AZ,CA,CO,CT,FL,GA,IA,ID,IL,IN,KY,MA,MD,ME,MI,MN,MO,MT,NC,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,WA,WI,WV",
+  "model_name" : "BPCI Model 3: Retrospective Post Acute Care Only",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : "Episode-based Payment Initiatives, Bundled Payments for Care Improvement (BPCI) Initiative, BPCI, BPCI Model 4: Prospective Acute Care Hospital Stay Only, Medicare",
+  "number_of_participants" : "8",
+  "description" : "The Bundled Payments for Care Improvement Initiative bundles payment for an episode of care. In Model 4, prospective bundled payments are made for acute care hospital stays only.",
+  "url" : "/initiatives/BPCI-Model-4/",
+  "states" : "CA,FL,MI,NJ,PA",
+  "model_name" : "BPCI Model 4: Prospective Acute Care Hospital Stay Only",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : "Speeding the Adoption of Best Practices, Partnership for Patients, Nationwide, Hospital-Acquired Conditions, Readmissions, CCTP, Community-Based Care Transitions Program, Medicare, Hospital Engagement Networks",
+  "number_of_participants" : "18",
+  "description" : "The Community-Based Care Transition Program is supporting community-based organizations to reduce readmissions by improving transitions of high-risk Medicare beneficiaries from the inpatient hospital setting to home or other care settings.",
+  "url" : "/initiatives/CCTP/",
+  "states" : " CA,IL,NY,AZ,PA,MA,MI,OH,NC,AL,IN,KY",
+  "model_name" : "Community-based Care Transitions Program",
+  "stage" : "Ongoing",
+  "authority" : "Section 3026 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Accountable Care, comprehensive esrd care model, esrd, end-stage renal disease, dialysis, Medicare",
+  "number_of_participants" : "13",
+  "description" : "The Comprehensive ESRD Care Model is designed to improve care for beneficiaries with ESRD while lowering Medicare costs.",
+  "url" : "/initiatives/comprehensive-ESRD-care/",
+  "states" : "CA,FL,IL,NC,NJ,NY,PA,SC,TN,TX",
+  "model_name" : "Comprehensive ESRD Care Model",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Primary Care Transformation, Comprehensive Primary Care Initiative, Medicare, managed care, multi-payer",
+  "number_of_participants" : "442",
+  "description" : "The CPC Initiative is a multi-payer initiative providing financial \nsupport to primary care practices in 7 markets.",
+  "url" : "/initiatives/Comprehensive-Primary-Care-Initiative/",
+  "states" : "NY,NJ,CO,OK,AR,OH,OR,KY",
+  "model_name" : "Comprehensive Primary Care Initiative",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : " Initiatives Focused on the Medicare-Medicaid Enrollees, Financial Alignment Initiative, dual eligibles, Medicare, Medicaid, Medicare-Medicaid enrollees, Financial Alignment Initiative for Medicare-Medicaid Enrollees",
+  "number_of_participants" : "13",
+  "description" : "Enables states to integrate care and payment systems for \nMedicare-Medicaid enrollees and better coordinate their care.",
+  "url" : "/initiatives/Financial-Alignment/",
+  "states" : "MA,WA,OH,IL,CA,VA,NY,SC,RI,MN,CO,MI,TX",
+  "model_name" : "Financial Alignment Initiative for Medicare-Medicaid Enrollees",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives Focused on the Medicare-Medicaid Enrollees"
+}
+, {
+  "keywords" : "Primary Care Transformation, Federally Qualified Health Center (FQHC), medical home, Medicare, managed care, Medicaid, dual eligibles, Medicare, FQHC Advanced Primary Care Practice Demonstration",
+  "number_of_participants" : "434",
+  "description" : "The Federally Qualified Health Center (FQHC) Advanced Primary \nCare Practice Demonstration is testing the efficiency of patient-\ncentered medical homes among FQHCs.",
+  "url" : "/initiatives/FQHCs/",
+  "states" : "WA,WI,CA,GA,LA,IL,WV,KY,ID,NH,AK,NC,AR,MI,HI,MD,TX,SC,IA,MI,NM,MO,PA,MS,OH,NJ,NY,IN,MS,TN,SD,OR,VA,CO,NE,MT,FL,MA,CT,WY,MN,KY,RI,ND,ID,ME,AL,KS,OK,AL,OR",
+  "model_name" : "FQHC Advanced Primary Care Practice Demonstration",
+  "stage" : "No Longer Active",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : "Primary Care Transformation, Frontier Extended Stay Clinic Demonstration, acute care, remote geographic areas",
+  "number_of_participants" : "5",
+  "description" : "The Frontier Extended Stay Clinic Demonstration is allowing \nremote clinics to treat patients for more extended periods, including overnight stays, that are entailed in routine physician visits.",
+  "url" : "/initiatives/Frontier-Extended-Stay-Clinic/",
+  "states" : "AK,WA",
+  "model_name" : "Frontier Extended Stay Clinic Demonstration",
+  "stage" : "No Longer Active",
+  "authority" : "Section 434 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : "Primary Care Transformation, Graduate Nurse Education Demonstration, GNE, Advanced Practice Registered Nurses (APRNs), Medicare",
+  "number_of_participants" : "5",
+  "description" : "The Graduate Nurse Education Demonstration is supporting \nhospitals for the reasonable cost of providing clinical training \nto advanced practice registered nursing (APRN) training.",
+  "url" : "/initiatives/GNE/",
+  "states" : "PA,NC,AZ,IL,TX",
+  "model_name" : "Graduate Nurse Education Demonstration",
+  "stage" : "Ongoing",
+  "authority" : "Section 5509 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : "Health Care Innovation Awards, Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models, Medicare, Medicaid, Children's Health Insurance Program (CHIP), CHIP, grants, HCIA, Challenge, managed care, community health, rural",
+  "number_of_participants" : "107",
+  "description" : "The Health Care Innovation Awards are funding competitive grants to compelling new ideas that deliver health care at lower costs to people enrolled in Medicare, Medicaid, and CHIP.",
+  "url" : "/initiatives/Health-Care-Innovation-Awards/",
+  "states" : "MA,TX,NJ,MN,SD,NC,GA,PA,OR,MD,VA,DC,RI,CT,VT,NM,WA,CA,NH,NE,IL,NY,OH,CO,TN,MI,WI,DE,AR,MO,SC,FL,HI,MT,WY,UT,ID,ME,IA,OK,AZ,IN,ND,AK,NV,ND,AL,PR,OR,KS,KY,MS,WV,ID,LA",
+  "model_name" : "Health Care Innovation Awards",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Primary Care Transformation, Independence at Home Demonstration, Medicare, home-based care, chronic conditions",
+  "number_of_participants" : "13 Independent Practices and 1 Consortium",
+  "description" : "The Independence at Home Demonstration is supporting home-based primary care for Medicare beneficiaries with multiple chronic conditions.",
+  "url" : "/initiatives/Independence-at-Home/",
+  "states" : "MA,DE,OH,NY,NC,OR,TX,FL,MI,VA",
+  "model_name" : "Independence at Home Demonstration",
+  "stage" : "Ongoing",
+  "authority" : "Section 3024 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : "Initiatives Focused on the Medicare-Medicaid Enrollees, Initiative to Reduce Avoidable Hospitalizations Among Nursing Facility Residents, Partnership for Patients, Medicare-Medicaid enrollees, dual eligibles, Medicaid, Medicare",
+  "number_of_participants" : "7",
+  "description" : "Offers enhanced clinical services to beneficiaries in extended-care \nnursing facilities.",
+  "url" : "/initiatives/rahnfr/",
+  "states" : "AL,IN,MO,NE,NV,NY,PA ",
+  "model_name" : "Initiative to Reduce Avoidable Hospitalizations Among Nursing Facility Residents",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives Focused on the Medicare-Medicaid Enrollees"
+}
+, {
+  "keywords" : " Initiatives to Speed the Adoption of Best Practices, Innovation Advisors Program",
+  "number_of_participants" : "71",
+  "description" : "The Innovation Advisors Program supported dedicated, skilled individuals in the health care system who can test new models of care delivery in their own organizations and work locally to improve the health of their communities.",
+  "url" : "/initiatives/Innovation-Advisors-Program/",
+  "states" : "MA,CA,NC,MD,WI,TN,DC,PA,RI,MN,MI,IL,NY,CO,KY,WA,VA,OH,LA,NH,UT,OR,WY,GA,CA,IA,NJ,HI,TX",
+  "model_name" : "Innovation Advisors Program",
+  "stage" : "No Longer Active",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : " Initiatives Focused on the Medicaid and CHIP Population, Medicaid Emergency Psychiatric Demonstration, Medicaid, Children's Health Insurance Program (CHIP) ",
+  "number_of_participants" : "12",
+  "description" : "The Medicaid Emergency Psychiatric Demonstration supported treatment for psychiatric emergencies at private psychiatric hospitals in 11 states and the District of Columbia.",
+  "url" : "/initiatives/Medicaid-Emergency-Psychiatric-Demo/",
+  "states" : "AL,CA,CT,DC,IL,ME,MD,MO,NC,RI,WA,WV",
+  "model_name" : "Medicaid Emergency Psychiatric Demonstration",
+  "stage" : "No Longer Active",
+  "authority" : "Section 2707 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives Focused on the Medicaid and CHIP Population"
+}
+, {
+  "keywords" : " Initiatives Focused on the Medicaid and CHIP Population, Medicaid Incentives for the Prevention of Chronic Diseases Model, grants, managed care",
+  "number_of_participants" : "10",
+  "description" : "The Medicaid Incentives for the Prevention of Chronic Diseases Model is supporting 10 states providing incentives for Medicaid beneficiaries to participate in prevention programs and demonstrate changes in health risks and outcomes.",
+  "url" : "/initiatives/MIPCD/",
+  "states" : "WI,MN,NY,NV,NH,MT,HI,TX,CA,CT",
+  "model_name" : "Medicaid Incentives for the Prevention of Chronic Diseases Model",
+  "stage" : "Ongoing",
+  "authority" : "Section 4108 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives Focused on the Medicaid and CHIP Population"
+}
+, {
+  "keywords" : "Episode-based Payment Initiatives, Bundled Payments for Care Improvement (BPCI), Medicare Acute Care Episode (ACE) Demonstration, Medicare, Value-Based Care Centers",
+  "number_of_participants" : "5",
+  "description" : "The Acute Care Episode (ACE) Demonstration is testing the effect \nof bundling Part A and B payments for episodes of acute care.",
+  "url" : "/initiatives/ACE/",
+  "model_name" : "Medicare Acute Care Episode (ACE) Demonstration",
+  "stage" : "No Longer Active",
+  "authority" : "Section 646 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : "Primary Care Transformation, Medicare Coordinated Care Demonstration, Medicare",
+  "number_of_participants" : "15",
+  "description" : "The Medicare Coordinated Care Demonstration is testing whether \nproviding coordinated care services to Medicare beneficiaries with complex chronic conditions can yield patient outcomes without increasing program costs.",
+  "url" : "/initiatives/Medicare-Coordinated-Care/",
+  "model_name" : "Medicare Coordinated Care Demonstration",
+  "stage" : "No Longer Active",
+  "authority" : "Section 4106 of the Balanced Budget Act of 1997",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : "Accountable Care, Medicare Health Care Quality Demonstration, Medicare",
+  "number_of_participants" : "4",
+  "description" : "The Medicare Health Care Quality Demonstration is testing major \nchanges to improve quality of care while increasing efficiency across an entire health care system.",
+  "url" : "/initiatives/Medicare-Health-Care-Quality/",
+  "model_name" : "Medicare Health Care Quality Demonstration",
+  "stage" : "Ongoing",
+  "authority" : "Section 646 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Episode-based Payment Initiatives, Medicare Hospital Gainsharing Demonstration, rural, Medicare",
+  "number_of_participants" : "2",
+  "description" : "This demonstration is testing arrangements between hospitals and physicians designed to govern the utilization of inpatient hospital resources and physician work and improve operational hospital performance with the sharing of remuneration.",
+  "url" : "/initiatives/Medicare-Hospital-Gainsharing/",
+  "model_name" : "Medicare Hospital Gainsharing Demonstration",
+  "stage" : "No Longer Active",
+  "authority" : "Deficit Reduction Act of 2005 and Section 3027 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : " Initiatives to Speed the Adoption of Best Practices, Medicare Imaging Demonstration, MRI, computed tomography, CT scan, nuclear medicine",
+  "number_of_participants" : "5",
+  "description" : "Collects data regarding physician use of advanced diagnostic \nimaging services to determine the appropriateness of services in relation to medical specialty guidelines.",
+  "url" : "/initiatives/Medicare-Imaging/",
+  "model_name" : "Medicare Imaging Demonstration",
+  "stage" : "No Longer Active",
+  "authority" : "Section 135(b) of the Medicare Improvements for Patients and Providers Act of 2008",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Primary Care Transformation, Multi-payer Advanced Primary Care Practice Demonstration, medical home, APC, Medicaid, Medicare",
+  "number_of_participants" : "5",
+  "description" : "In the Multi-Payer Advanced Primary Care Practice Demonstration, \nCMS is joining in multi-payer primary care initiatives that are currently being conducted within states.",
+  "url" : "/initiatives/Multi-Payer-Advanced-Primary-Care-Practice/",
+  "states" : " ME,VT,RI,NY,MI",
+  "model_name" : "Multi-Payer Advanced Primary Care Practice",
+  "stage" : "Ongoing",
+  "authority" : "Section 402 of the Social Security Amendments of 1967 as amended",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : "Accountable Care, Nursing Home Value-Based Purchasing Demonstration, Medicare, Medicaid",
+  "number_of_participants" : "182",
+  "description" : "Nursing Home Value-Based Purchasing Demonstration provides \nincentive payment awards to participating nursing homes that perform the best or improve the most in terms of quality.",
+  "url" : "/initiatives/Nursing-Home-Value-Based-Purchasing/",
+  "states" : "AZ,NY,WI",
+  "model_name" : "Nursing Home Value-Based Purchasing Demonstration",
+  "stage" : "Ongoing",
+  "authority" : "Section 402 of the Social Security Amendments of 1967 as amended",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Initiatives to Speed the Adoption of Best Practices, Partnership for Patients, Community-based Care Transitions Program, Hospital Engagement Networks (HENs), Hospital-Acquired Conditions, Care Transitions, Medicare, Readmissions",
+  "description" : "The Partnership for Patients is a nationwide public-private partnership that offers support to physicians, nurses and other clinicians working in and out of hospitals to reduce hospital-acquired conditions and readmissions.",
+  "url" : "/initiatives/Partnership-for-Patients/",
+  "model_name" : "Partnership for Patients",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : " Accountable Care, Shared Savings Program, Medicare, Medicare Physician Group Practice Transition Demonstration, Physician Group Practice Transition Demonstration",
+  "number_of_participants" : "6",
+  "description" : "A precursor to the Medicare Shared Savings Program, the Physician \nGroup Practice Transition Demonstration rewarded groups for efficient and high quality care.",
+  "url" : "/initiatives/Physician-Group-Practice-Transition/",
+  "model_name" : "Physician Group Practice Transition Demonstration",
+  "stage" : "No Longer Active",
+  "authority" : "Sections 3022 and 3027 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Episode-based Payment Initiatives, Physician Hospital Collaboration Demonstration, Medicare",
+  "number_of_participants" : "12",
+  "description" : "The Physician Hospital Collaboration Demonstration is examining the \neffects of gainsharing aimed at improving the quality of care being delivered.",
+  "url" : "/initiatives/Physician-Hospital-Collaboration/",
+  "states" : "NJ",
+  "model_name" : "Physician Hospital Collaboration Demonstration",
+  "stage" : "No Longer Active",
+  "authority" : "Section 646 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : " Accountable Care, ACOs, Pioneer ACO Model, Accountable Care Organizations (ACOs), Shared Savings Program, alligned beneficiaries, quality metrics, coordinated care, quality measures, Medicare",
+  "number_of_participants" : "9",
+  "description" : "The Pioneer ACO Model is rewarding 19 groups of health care providers experienced in working together to coordinate care.",
+  "url" : "/initiatives/Pioneer-ACO-Model/",
+  "states" : " MN,MA,AZ,WI,CA,MI,NY",
+  "model_name" : "Pioneer ACO Model",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Accountable Care, Private For-Profit Demo Project for the Program of All-Inclusive Care for the Elderly (PACE), PACE, Medicare",
+  "number_of_participants" : "6",
+  "description" : "This demonstration is studying the quality and cost of providing PACE \nprogram services under the Medicare and Medicaid Programs.",
+  "url" : "/initiatives/PACE/",
+  "states" : "PA",
+  "model_name" : "Private, For-Profit Demo Project for the Program of All-Inclusive Care for the Elderly (PACE)",
+  "stage" : "Ongoing",
+  "authority" : "Section 4804 of the Balanced Budget Act of 1997",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Accountable Care, Rural Community Hospital Demonstration, Medicare, rural",
+  "number_of_participants" : "14",
+  "description" : "The Rural Community Hospital Demonstration is testing the feasibility \nand advisability of providing reasonable cost reimbursements for small rural hospitals.",
+  "url" : "/initiatives/Rural-Community-Hospital/",
+  "states" : "AK,CO,IA,KS,ME,MS,NM,SD,UT",
+  "model_name" : "Rural Community Hospital Demonstration",
+  "stage" : "Ongoing",
+  "authority" : "Sections 410A of the Medicare Modernization Act of 2003 as amended by sections 3123 and 10313 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "State Innovation Models Initiative, State Innovation Models Initiative: Model Design Awards, Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models",
+  "number_of_participants" : "16",
+  "description" : "Sixteen states received funding to develop state-based models for multi-payer payment and health care delivery system transformation.",
+  "url" : "/initiatives/State-Innovations-Model-Design/",
+  "states" : "OH,DE,HI,RI,TX,CA,IA,ID,TN,MD,CT,NH,PA,UT,MI,IL",
+  "model_name" : "State Innovation Models Initiative: Model Design Awards Round One",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : " Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models, State Innovation Models Initiative: Model Pre-Testing Awards, State Innovation Models Initiative",
+  "number_of_participants" : "3",
+  "description" : "Three states further developed their state-based models for multi-payer payment reform and health care delivery system transformation.",
+  "url" : "/initiatives/State-Innovations-Model-Pre-Testing/",
+  "states" : "CO,NY,WA",
+  "model_name" : "State Innovation Models Initiative: Model Pre-Test Awards",
+  "stage" : "No Longer Active",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "State Innovation Models Initiative, State Innovation Models Initiative: Model Test Awards, Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models",
+  "number_of_participants" : "6",
+  "description" : "Six states are implementing, testing, and evaluating a multi-payer health system transformation model that aims to deliver high quality care and improve health system performance for its residents.",
+  "url" : "/initiatives/State-Innovations-Model-Testing/",
+  "states" : "AR,ME,MA,MN,OR,VT",
+  "model_name" : "State Innovation Models Initiative: Model Test Awards Round One",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Strong Start for Mothers and Newborns Initiative, Initiatives Focused on the Medicaid and CHIP Population, Medicaid, Children's Health Insurance Program (CHIP)",
+  "number_of_participants" : "182",
+  "description" : "This initiative will test three evidence-based maternity care service \napproaches that aim to improve the health outcomes of pregnant women and newborns. ",
+  "url" : "/initiatives/Strong-Start-Strategy-2/",
+  "states" : "AK,AL,AR,AZ,CA,CT,DC,FL,GA,IL,KY,LA,MD,MI,MN,MO,MS,MT,NC,NE,NJ,NM,NV,NY,OK,OR,PA,PR,SC,TN,TX,VA,WI,WV",
+  "model_name" : "Strong Start for Mothers and Newborns Initiative: Enhanced Prenatal Care Models",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives Focused on the Medicaid and CHIP Population"
+}
+, {
+  "keywords" : " Initiatives to Speed the Adoption of Best Practices, Million Hearts, heart attacks, strokes, cardiovascular disease",
+  "description" : "Million Hearts is a national initiative to prevent 1 million heart attacks and strokes over five years.",
+  "url" : "/initiatives/Million-Hearts/",
+  "model_name" : "Million Hearts",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : " Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models, Medicare, Medicaid, Children's Health Insurance Program (CHIP), CHIP, community health, Model Testing, Model Design, grants, State Innovation Models Initiative",
+  "description" : " The State Innovation Models initiative is a $275 million competitive funding opportunity for States to design and test multi-payer payment and delivery models that deliver high-quality health care and improve health system performance.",
+  "url" : "/initiatives/State-Innovations/",
+  "model_name" : "State Innovation Models Initiative: General Information",
+  "stage" : "Not Applicable",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Accountable Care, ACOs, Accountable Care Organizations (ACOs): General Information, Medicare, coordinated care, managed care, Shared Savings Program, Medicare Shared Savings Program, Pioneer ACO Model, Advance Payment ACO Model",
+  "description" : " ACOs are groups of clinicians, hospitals, and other health-care providers that choose to come together to deliver coordinated, high-quality care to the Medicare patients they serve.",
+  "url" : "/initiatives/ACO/",
+  "model_name" : "Accountable Care Organizations (ACOs): General Information",
+  "stage" : "Not Applicable",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Episode-based Payment Initiatives, Bundled Payments for Care Improvement (BPCI) Initiative: General Information, BPCI, Medicare, prospective payment, BPCI Model 1: Retrospective Acute Care Hospital Stay Only, BPCI Model 2: Retrospective Acute & Post Acute Care Episode, BPCI Model 3: Retrospective Post Acute Care, BPCI Model 4: Prospective Acute Care Hospital Stay Only",
+  "description" : "The Bundled Payments for Care Improvement intitiative evaluates 4 different models of bundled payments for a defined episode of care to incentivize care redesign.",
+  "url" : "/initiatives/Bundled-Payments/",
+  "model_name" : "Bundled Payments for Care Improvement (BPCI) Initiative: General Information",
+  "stage" : "Not Applicable",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : " Strong Start for Mothers and Newborns Initiative, Initiatives Focused on the Medicaid and CHIP Population, Medicaid, Children's Health Insurance Program (CHIP), Partnership for Patients",
+  "description" : "The Strong Start effort to reduce early elective deliveries supports providers and mothers-to-be in their efforts to decrease the number of early elective deliveries and improve outcomes for mothers and infants.",
+  "url" : "/initiatives/Strong-Start-Strategy-1/",
+  "model_name" : "Strong Start for Mothers and Newborns Initiative: Effort to Reduce Early Elective Deliveries",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "category" : "Initiatives Focused on the Medicaid and CHIP Population"
+}
+, {
+  "keywords" : "Initiatives Focused on the Medicaid and CHIP Population, Strong Start for Mothers and Newborns Initiative, Medicaid, Children's Health Insurance Program (CHIP), Partnership for Patients",
+  "description" : "Strong Start supports reducing elective deliveries prior to 39 weeks and offers enhanced prenatal care to decrease preterm births through awards to 27 organizations.",
+  "url" : "/initiatives/Strong-Start/",
+  "model_name" : "Strong Start for Mothers and Newborns Initiative: General Information",
+  "stage" : "Not Applicable",
+  "category" : "Initiatives Focused on the Medicaid and CHIP Population"
+}
+, {
+  "keywords" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models, Medicare Intravenous Immune Globulin (IVIG) Demonstration, IVIG, primary immune deficiency disease (PIDD), home health",
+  "description" : "This Demonstration is being implemented to evaluate the benefits of providing payment and items for services needed for in-home administration of intravenous immune globulin for the treatment of primary immune deficiency disease (PIDD).",
+  "url" : "/initiatives/IVIG/",
+  "model_name" : "Medicare Intravenous Immune Globulin (IVIG) Demonstration",
+  "stage" : "Accepting Applications",
+  "authority" : "Medicare IVIG Access and Strengthening Medicare and Repaying Taxpayers Act of 2012",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : " Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models, Maryland All-Payer Model, Medicare, Medicaid, Children's Health Insurance Program (CHIP), states",
+  "number_of_participants" : "1",
+  "description" : "This Model is a partnership between CMS and the state of Maryland to modernize Maryland's unique all-payer rate-setting system for hospital services.",
+  "url" : "/initiatives/Maryland-All-Payer-Model/",
+  "states" : "MD",
+  "model_name" : "Maryland All-Payer Model",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models, Frontier Community Health Integration Project Demonstration, Medicare, critical access hospitals (CAHs), rural, telemedicine, home health, home-based care, ambulance, remote geographic areas",
+  "number_of_participants" : "10",
+  "description" : "This demonstration aims to develop and test new models of integrated, coordinated health care in the most sparsely populated rural counties.",
+  "url" : "/initiatives/Frontier-Community-Health-Integration-Project-Demonstration/",
+  "states" : "MT,NV,ND",
+  "model_name" : "Frontier Community Health Integration Project Demonstration",
+  "stage" : "Participants Announced",
+  "authority" : "Section 3126 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Episode-based Payment Initiatives, Specialty Practitioner Payment Model Opportunities, Medicare, Medicaid, Children's Health Insurance Program, CHIP, chronic conditions, managed care, outpatient",
+  "description" : "The Centers for Medicare & Medicaid Services (CMS) are seeking input on two areas related to initiatives surrounding innovative models of payment for specialty care.",
+  "url" : "/initiatives/Specialty-Practitioner/",
+  "model_name" : "Specialty Practitioner Payment Model Opportunities: General Information",
+  "stage" : "Under Development",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : "Primary Care Transformation, Transforming Clinical Practice Initiative, TCPI, quality improvement strategies, clinicians, learning networks, population-based care, large-scale investment, value-based payment, infrastructure",
+  "number_of_participants" : "41",
+  "description" : "A large-scale health transformation initiative to support clinician practices in sharing, adapting and developing comprehensive quality improvement strategies.",
+  "url" : "/initiatives/Transforming-Clinical-Practices/",
+  "states" : "AK,AL,AR,AZ,CA,CO,CT,DE,FL,GA,HI,IA,ID,IL,IN,KS,KY,LA,MA,ME,MD,MI,MN,MO,MS,MT,NC,ND,NE,NH,NJ,NM,NV,NY,OH,OK,OR,PA,RI,SC,SD,TN,TX,UT,VA,VT,WA,WI,WV,WY",
+  "model_name" : "Transforming Clinical Practice Initiative",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : "Initiatives to Accelerate the Development and Testing of New payment and Service Delivery Models, Medicare Care Choices Model, hospice, Medicare, Medicaid, curative treatment, dual eligible individuals, Medicare hospice benefit, Medicaid hospice benefit, shared decision making, care coordination",
+  "number_of_participants" : "141",
+  "description" : "The Medicare Care Choices Model aims to develop innovative payment systems to improve care options for hospice eligible beneficiaries by allowing greater beneficiary access to comfort and rehabilitative care in Medicare and Medicaid.",
+  "url" : "/initiatives/Medicare-Care-Choices/",
+  "states" : "OH,MI,VT,CA,NV,OR,WA,TN,MA,NY,CT,NJ,IA,MN,IL,WI,SC,NC,GA,KY,VA,MD,DE,PA,FL,MO,LA,IN,TX,MT,IN,KS,ID,ME,SD,OK,VT,AZ,UT,HI",
+  "model_name" : "Medicare Care Choices Model",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models, Health Care Innovation Awards Round Two, HCIA Round Two, grants",
+  "number_of_participants" : "39",
+  "description" : "The Health Care Innovation Awards Round Two are funding competitive grants to compelling new ideas that deliver health care at lower costs to people enrolled in Medicare, Medicaid, and CHIP.",
+  "url" : "/initiatives/Health-Care-Innovation-Awards/Round-2.html",
+  "states" : "AZ,CA,CO,CT,DC,FL,GA,IA,IL,KS,MA,MD,MI,MN,MO,NE,NC,NH,NM,NY,OH,PA,SD,TX,WA,WI,VA",
+  "model_name" : "Health Care Innovation Awards Round Two",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "State Innovation Models Initiative, State Innovation Models Initiative: Model Test Awards Round Two, Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models",
+  "number_of_participants" : "11",
+  "description" : "The second round of State Innovation Models Initiative Model Testing Awards will provide financial and technical support over a four-year period for states to test and evaluate multi-payer health system transformation models.",
+  "url" : "/initiatives/State-Innovations-Model-Testing-Round-Two/",
+  "states" : "CO,CT,DE,ID,IA,MI,NY,OH,RI,WA",
+  "model_name" : "State Innovation Models Initiative: Model Test Awards Round Two",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "State Innovation Models Initiative, State Innovation Models Initiative: Model Design Awards Round Two, Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models",
+  "number_of_participants" : "21",
+  "description" : "The second round of State Innovation Models Initiative Model Design Awards will provide financial and technical support to states for their planning and design efforts.",
+  "url" : "/initiatives/State-Innovations-Model-Design-Round-Two/",
+  "states" : "AS,AZ,CA,DC,HI,KY,IL,MD,MT,NV,NH,NJ,NM,MP,OK,PA,PR,UT,VA,WV,WI",
+  "model_name" : "State Innovation Models Initiative: Model Design Awards Round Two",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Initiatives Focused on the Medicaid and CHIP Population, Medicaid, CHIP, Medicaid Innovation Accelerator Program, IAP, technical assistance, CMCS",
+  "description" : "This program aims to support state efforts to accelerate innovations to improve health and care, while decreasing costs in the Medicaid and CHIP programs.",
+  "url" : "/initiatives/MIAP/",
+  "model_name" : "Medicaid Innovation Accelerator Program",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives Focused on the Medicaid and CHIP Population"
+}
+, {
+  "keywords" : "Beneficiary Engagement and Incentives Models: General Information, Initiatives to Speed the Adoption of Best Practices, Medicare, Medicaid, Childer's Health Insurance Plan, CHIP, Medicare-Medicaid enrollees",
+  "description" : "The Centers for Medicare and Medicaid Services (CMS) are seeking input on models testing health care engagement among multiple beneficiary groups.",
+  "url" : "/initiatives/Beneficiary-Engagement/",
+  "model_name" : "Beneficiary Engagement and Incentives Models: General Information",
+  "stage" : "Accepting Letters of Intent",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Health Plan Innovation Initiatives, Medicare, Medicaid, CHIP, Childrens Health Insurance Plan, Medigap, Medicare Advantage, Retiree Supplemental Health Plans, HPI, Part D",
+  "description" : "The Centers for Medicare and Medicaid Services is seeking input on potential models to test model designs, network designs and incentives in Medicare, Medicaid, Medigap and retiree Supplemental health plans.",
+  "url" : "/initiatives/HPI/",
+  "model_name" : "Health Plan Innovation Initiatives",
+  "stage" : "Under Development",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "ACO Investment Model, Accountable Care Organization, Medicare Shared Savings Program, Advance Payment ACO Model, Pioneer ACO Model, rural areas",
+  "number_of_participants" : "45",
+  "description" : "The ACO Investment Model is testing new pre-payment approaches meant to support Medicare Shared Savings Program ACOs.",
+  "url" : "/initiatives/ACO-Investment-Model/",
+  "states" : "CA,OK,MN,KS,MS,WV,TX,KY,ME,NC,FL,IA,WI,IL,MO,MI,NH,VT,OH,PA,WA,AL,SC,GA,SD,OR,MT,ID,WY,TN,SD,NE,NM,CO",
+  "model_name" : "ACO Investment Model",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "State Innovation Models Initiative, State Innovation Models Initiative: Round Two, Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models",
+  "number_of_participants" : "32",
+  "description" : "The second round of State Innovation Models Initiative awards is providing over $665 million to support state-led, multi-payer health care payment and service delivery innovation.",
+  "url" : "/initiatives/State-Innovations-Round-Two/index.html",
+  "states" : "AS,AZ,CA,CO,CT,DC,DE,IA,ID,IL,KY,MD,MI,MP,MT,NH,NM,NJ,NV,NY,OH,OK,PA,PR,RI,TN,UT,VA,WA,WI,WV",
+  "model_name" : "State Innovation Models Initiative: Round Two",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Oncology Care Model, chemotherapy, care coordination, shared decision making,  Medicare, Medicare Advantage, Medicaid",
+  "number_of_participants" : "195 practices, 16 payers",
+  "description" : "This innovative new payment model for physician practices administering chemotherapy aims to provide higher quality, more coordinated oncology care at lower cost to Medicare.",
+  "url" : "/initiatives/Oncology-Care/",
+  "states" : "AL,AR,AZ,CA,CT,FL,GA,IL,IN,KY,MA,ME,MI,MN,NE,NJ,NM,NY,OH,OK,OR,PA,SC,TN,TX,UT,VA,WA,WI,WV",
+  "model_name" : "Oncology Care Model",
+  "stage" : "Participants Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : "Advanced Primary Care Initiatives, community health, population-based care, ",
+  "description" : "The Centers for Medicare & Medicaid Services (CMS) is seeking input on the design of the next generation of advanced primary care model(s).",
+  "url" : "/initiatives/Advanced-Primary-Care/",
+  "model_name" : "Advanced Primary Care Initiatives",
+  "stage" : "Under Development",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : "Health Care Payment Learning and Action Network, Initiatives to Speed the Adoption of Best Practices, value-based payments, alternative payment models, payment reform, alternative payment models",
+  "description" : "The Health Care Payment Learning and Action Network aims to advance cross-sector work to increase adoption of value-based and alternative payment models.",
+  "url" : "/initiatives/Health-Care-Payment-Learning-and-Action-Network/",
+  "model_name" : "Health Care Payment Learning and Action Network",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Next Generation ACO Model, Accountable Care, Medicare, quality improvement, incentives, care coordination, alternative payment models",
+  "number_of_participants" : "18",
+  "description" : "This model allows provider groups to assume higher levels of financial risk and reward than are available under the current Pioneer ACO Model and Shared Savings Program through incentives and support tools.",
+  "url" : "/initiatives/Next-Generation-ACO-Model/",
+  "states" : "AZ,CA,IA,IL,IN,MA,ME,MI,MN,NC,TX,WI",
+  "model_name" : "Next Generation ACO Model",
+  "stage" : "Applications Under Review",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Medicare Demonstrations, Treatment of Certain Complex Diagnostic Laboratory Tests,  Electronic Health Records Demonstration,  Home Health Pay for Performance Demonstration,  Medicare Medical Home Demonstration,  Medicare Part D Payment Demonstration,  Post Acute Care Payment Reform Demonstration,  Medicare Low Vision Rehabilitation Demonstration,  Medicare Care Management Performance Demonstration,  Senior Risk Reduction Program,  Recovery Audit Contractors,  Cancer Prevention and Treatment Demonstration for Ethnic and Racial Minorities,  Rural Hospice Demonstration,  Medicare Replacement Drug Demonstration,  Frequent Hemodialysis Network Clinical Trials,  Demonstration Project for Medical Adult Day Care Services,  MMA 623 ESRD Bundled Payment Demonstration,  Care Management for High-Cost Beneficiaries Demonstration,  DoD Subvention Demonstration,  MMA Section 651 Expansion of Coverage of Chiropractic Services Demonstration,  Medicare Home Health Independence Demonstration,  Demonstration Project For Competitive Bidding of Clinical Laboratory Services,  Community Nursing Organization Demonstration,  Demonstration Project for Consumer-Directed Chronic Outpatient Services,  End Stage Renal Disease (ESRD) Disease Management Demonstration,  Medicare Preferred Provider Organization Demonstration,  Medicare BIPA Disease Management Demonstration,  Premier Hospital Quality Incentive Demonstration,  End-Stage Renal Disease Managed Care Demonstration,  Social Health Maintenance Organization Demonstration (SHMO),  Medicare Stop Smoking Program,  Medicare Partnerships for Quality Services Demonstration,  Demonstrations Serving Those Dually-Eligible for Medicare and Medicare,  Evercare Demonstration,  Home Health Agency Prospective Payment Demonstration,  Durable Medical Equipment Competitive Bidding Demonstration,  Informatics for Diabetes Education and Telemedicine (IDEATel) Demonstration Project,  Medicare Physician Group Practice Demonstration,  Medicare Lifestyle Modification Program Demonstration,  Medicare Participating Heart Bypass Center Demonstration,  Medicare Choices Demonstration,  Medicare Case Management (Early Coordinated Care) Demonstrations",
+  "description" : "The Center for Medicare & Medicaid Innovation (CMMI) conducts both demonstration projects and model tests to measure the effect of potential program changes. CMMI also sponsors demonstration projects and model tests conducted by other components at the Centers for Medicare & Medicaid Services.",
+  "url" : "//innovation.cms.gov/Medicare-Demonstrations/",
+  "model_name" : "Medicare Demonstrations",
+  "stage" : "Ongoing",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Million Hearts: Cardiovascular Disease Risk Reduction Model, Million Hearts, CVD, Initiative to Speed the Adoption of Best Practices, Medicare, heart attacks, stroke, predictive modelling, population-level risk management",
+  "number_of_participants" : "516",
+  "description" : "This model provides opportunity for the design of sustainable care approaches to decrease cardiovascular disease risk for Medicare beneficiaries.",
+  "url" : "/initiatives/Million-Hearts-CVDRRM/",
+  "states" : "AZ,AK,CA,CO,DC,WA,OR,ID,MT,UT,WY,NM,TX,OK,KS,ND,NE,MN,IA,MO,AR,LA,MS,TN,IL,WI,MI,IN,OH,AL,GA,FL,SC,NC,VA,PA,OH,NY,NJ,CT,RI,NH,ME,DE,HI,PR",
+  "model_name" : "Million Hearts®: Cardiovascular Disease Risk Reduction Model",
+  "stage" : "Participants Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Comprehensive Care for Joint Replacement Model, Episode-based Payment Initiatives, lower extremity joint replacement, hip replacement, knee replacement, surgeries",
+  "number_of_participants" : "67 MSAs",
+  "description" : "The Center for Medicare & Medicaid Services is seeking input on this proposed model that aims to improve care and reduce costs for hip and knee replacements through episode-based payments.",
+  "url" : "/initiatives/ccjr/",
+  "states" : "AL, AR, CA, CT, FL, GA, IL, IN, KS, KY, LA, MI, MO, NC, NE, NM, NY, ND, OH, OK, PA, SC, TN, TX, UT, WA, WI",
+  "model_name" : "Comprehensive Care for Joint Replacement Model",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : "Medicare Advantage Value-Based Insurance Design Model, Health Plan Innovation Initiatives, Medicare Advantage, value-based insurance design, HPI, Medicare, vbid, VBID, MA-VBID, chronic conditions",
+  "number_of_participants" : "11",
+  "description" : "This model is testing the value of extra benefits or reductions in cost sharing for Medicare Advantage enrollees with chronic health conditions.",
+  "url" : "/initiatives/vbid/",
+  "states" : "IN,MA,PA",
+  "model_name" : "Medicare Advantage Value-Based Insurance Design Model",
+  "stage" : "Accepting Applications",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Home Health Value-Based Purchasing Model, Medicare, value based, HHVBP",
+  "description" : "This proposed model is designed to support greater quality and efficiency among Medicare-certified home health agencies by shifting away from payments based on volume towards payments based on quality.",
+  "url" : "/initiatives/home-health-value-based-purchasing-model",
+  "states" : "AZ,FL,IA,MA,MD,NE,NC,TN,WA",
+  "model_name" : "Home Health Value-Based Purchasing Model",
+  "stage" : "Ongoing",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Part D Enhanced Medication Therapy Management Model, Health Plan Innovation Initiatives, Medicare, Part D, MTM, Enhanced MTM, PDP, Health Plan Innovation Initiatives, HPI, drug coverage ",
+  "number_of_participants" : "6",
+  "description" : "This model will test changes to the Part D program to achieve better alignment of PDP sponsor and government financial interests, while also creating incentives for robust investment and innovation in MTM programs, lower health costs, and higher quality care. ",
+  "url" : "/initiatives/enhancedmtm/",
+  "states" : "AZ,FL,IA,LA,MN,MT,NE,ND,SD,VA,WY",
+  "model_name" : "Part D Enhanced Medication Therapy Management Model",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models, Accountable Health Communities Model, Medicare, Medicaid, community services, social needs, health related social needs, bridge organizations, clinical-community collaboration, community services",
+  "description" : "The Accountable Health Communities Model will test whether addressing unmet health-related social needs can reduce health care costs and utilization among community Medicare and Medicaid beneficiaries.",
+  "url" : "/initiatives/ahcm/",
+  "model_name" : "Accountable Health Communities Model",
+  "stage" : "Applications Under Review",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Medicare Part B Drugs Payment Model, Medicare, prescription drugs",
+  "description" : "The Medicare Part B Drug Payment Model is a proposed rule to test a new model to improve how Medicare Part B pays for prescription drugs and supports physicians and other clinicians in delivering higher quality care.",
+  "url" : "/initiatives/part-b-drugs",
+  "model_name" : "Medicare Part B Drugs Payment Model",
+  "stage" : "Under Development",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Initiative to Reduce Avoidable Hospitalizations among Nursing Facility Residents: Phase Two, Initiatives Focused on the Medicare-Medicaid Enrollees, dual eligible, Medicare, Medicaid, long-term care (LTC)",
+  "number_of_participants" : "6",
+  "description" : "Phase Two of the Initiative offering enhanced clinical services to beneficiaries in long-term care facilities.",
+  "url" : "/initiatives/rahnfr-phase-two/",
+  "states" : "AL,CO,IN,MO,NV,NY,PA",
+  "model_name" : "Initiative to Reduce Avoidable Hospitalizations among Nursing Facility Residents: Phase Two",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives Focused on the Medicare-Medicaid Enrollees"
+}
+, {
+  "keywords" : "Comprehensive Primary Care Plus, CPC+, primary care, medical home",
+  "description" : "A national advanced primary care medical home model that aims to strengthen primary care through a regionally-based multi-payer payment reform and care delivery transformation.",
+  "url" : "/initiatives/comprehensive-primary-care-plus/",
+  "model_name" : "Comprehensive Primary Care Plus",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Primary Care Transformation"
+}
+, {
+  "keywords" : "Regional Budget Payment Concept, geographically defined communities, global budgets, regionally-based payment approaches",
+  "description" : "The Centers for Medicare and Medicaid Services is seeking input on the feasibility of regional multi-payer prospective budgets as a potential payment model and potential for rural areas.",
+  "url" : "/initiatives/regional-budget-payment/",
+  "model_name" : "Regional Budget Payment Concept",
+  "stage" : "Under Development",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Historically Black Colleges and Universities (HBCU) Research Grant Program, diversity, grant, health research",
+  "description" : "This program supports researchers at Historically Black Colleges and Universities (HBCUs) in carying out health services research for diverse CMS beneficiary populations.",
+  "url" : "/initiatives/hbcu/",
+  "model_name" : "Historically Black Colleges and Universities (HBCU) Research Grant Program",
+  "stage" : "Ongoing",
+  "authority" : "Section 1110 of the Social Security Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Hispanic Health Services Research Grant Program, diversity, grant, health research",
+  "description" : "This program supports research to implement Hispanic American health services to meet the needs of diverse CMS beneficiary populations.",
+  "url" : "/initiatives/hhsrgp/",
+  "model_name" : "Hispanic Health Services Research Grant Program",
+  "stage" : "Ongoing",
+  "authority" : "Section 1110 of the Social Security Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Medicare Diabetes Prevention Program (MDPP) Expanded Model, Medicare, diabetes, proposed rule",
+  "description" : "This program is a structured lifestyle intervention to prevent onset of diabetes in pre-diabetic individuals.",
+  "url" : "/initiatives/medicare-diabetes-prevention-program/",
+  "model_name" : "Medicare Diabetes Prevention Program (MDPP) Expanded Model",
+  "stage" : "Announced",
+  "authority" : "Section 1115A of the Social Security Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Episode Payment Models: General Information, bundled payments, Medicare",
+  "description" : "This rule has created four new episode payment models (EPMs) and a Cardiac Rehabilitation (CR) Incentive Payment Model.",
+  "url" : "/initiatives/epm/",
+  "model_name" : "Episode Payment Models: General Information",
+  "stage" : "Not Applicable",
+  "authority" : "Section 1115A of the Social Security Act",
+  "display_model_summary" : "true",
+  "category" : "Episode-based Payment Initiatives"
+}
+, {
+  "keywords" : "Cardiac Rehabilitation (CR) Incentive Payment Model, cardiac care, heart attack, stroke, Medicare",
+  "description" : "This model will test the impact of providing an incentive payment for cardiac rehabilitation to hospitals where beneficiaries are hospitalized for a heart attack or bypass surgery.",
+  "url" : "/initiatives/cardiac-rehabilitation/",
+  "model_name" : "Cardiac Rehabilitation (CR) Incentive Payment Model",
+  "stage" : "Under Development",
+  "authority" : "Section 1115A of the Social Security Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Accelerate the Development and Testing of New Payment and Service Delivery Models"
+}
+, {
+  "keywords" : "Accountable Care, Vermont All-Payer ACO Model, Medicare, Medicaid, all payer",
+  "number_of_participants" : "1",
+  "description" : "This alternative payment model incentivizes delivery of health care value and quality among significant Vermont payers to transform health care for Vermont's population.",
+  "url" : "/initiatives/vermont-all-payer-aco-model/",
+  "states" : "VT",
+  "model_name" : "Vermont All-Payer ACO Model",
+  "stage" : "Announced",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Accountable Care"
+}
+, {
+  "keywords" : "Direct Decision Support (DDS) Model, DDS, Beneficiary Engagement and Incentives Models",
+  "description" : "This model will test an approach to shared decision making provided outside of the clinical delivery system by an organization that provides health management and decision support services.",
+  "url" : "/initiatives/Beneficiary-Engagement-DDS/",
+  "model_name" : "Beneficiary Engagement and Incentives: Direct Decision Support (DDS) Model",
+  "stage" : "Announced, Accepting Letters of Intent",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Shared Decision Making (SDM) Model, SDM, Beneficiary Engagement and Incentives Models",
+  "description" : "This model will test test a specific approach to integrate a structured Four Step shared decision making process into the clinical practice of practitioners who are participating Accountable Care Organizations (ACOs).",
+  "url" : "/initiatives/Beneficiary-Engagement-SDM/",
+  "model_name" : "Beneficiary Engagement and Incentives: Shared Decision Making (SDM) Model",
+  "stage" : "Announced, Accepting Letters of Intent",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives to Speed the Adoption of Best Practices"
+}
+, {
+  "keywords" : "Medicare-Medicaid ACO Model, Medicare, Medicaid, dual-eligible enrollees, Medicare Shared Savings Program, SSP, accountable care organizations",
+  "description" : "This model is a partnership between CMS and states, offering Medicare Shared Savings Program ACOs the opportunity to take on accountability for the quality of care and costs for Medicare-Medicaid enrollees.",
+  "url" : "/initiatives/medicare-medicaid-aco-model/",
+  "model_name" : "Medicare-Medicaid Accountable Care Organization (ACO) Model",
+  "stage" : "Announced, Accepting Letters of Intent",
+  "authority" : "Section 3021 of the Affordable Care Act",
+  "display_model_summary" : "true",
+  "category" : "Initiatives Focused on the Medicare-Medicaid Enrollees"
+}
+ ]
